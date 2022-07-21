@@ -7,19 +7,19 @@
 ## About me
 <img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Strong back end developer 🤓
-<br><br>
+<br>
 <img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Freelancer with great references 💸
-<br><br>
+<br>
 <img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Ambitious learner 📓
-<br><br>
+<br>
 <img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 ASM nerd and OS dev hobbyist 💻
-<br><br>
+<br>
 <img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Bash scripting is my secret love ❤️
-<br><br>
+<br>
 <img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 I stole this profile format 🥷🏼
 <br><br>
