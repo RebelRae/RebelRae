@@ -1,29 +1,28 @@
 <h1 align="center">Rebel Rae Brown</h1>
-<img align='right' src="https://media.giphy.com/media/Er3QVX48nt5ok/giphy.gif?cid=ecf05e47e5ea8h549rio2jyhbxttrlnjgwqm2q26odfqhg9u&rid=giphy.gif&ct=g" width="230">
+
+<div align="center">
+    <img src="https://media.giphy.com/media/Er3QVX48nt5ok/giphy.gif?cid=ecf05e47e5ea8h549rio2jyhbxttrlnjgwqm2q26odfqhg9u&rid=giphy.gif&ct=g" width="230">
+</div>
 
 ## About me
-<img height="16" style="transform:scaleX(-1)" src="https://www.gifs.cc/arrows/flashing-arrow-2018.gif">
+<img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Strong back end developer 🤓
-<br>
-<img height="16" style="transform:scaleX(-1)" src="https://www.gifs.cc/arrows/flashing-arrow-2018.gif">
+<br><br>
+<img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Freelancer with great references 💸
-<br>
-<img height="16" style="transform:scaleX(-1)" src="https://www.gifs.cc/arrows/flashing-arrow-2018.gif">
+<br><br>
+<img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Ambitious learner 📓
-<br>
-<img height="16" style="transform:scaleX(-1)" src="https://www.gifs.cc/arrows/flashing-arrow-2018.gif">
+<br><br>
+<img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 ASM nerd and OS dev hobbyist 💻
-<br>
-<img height="16" style="transform:scaleX(-1)" src="https://www.gifs.cc/arrows/flashing-arrow-2018.gif">
+<br><br>
+<img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 Bash scripting is my secret love ❤️
-<br>
-<img height="16" style="transform:scaleX(-1)" src="https://www.gifs.cc/arrows/flashing-arrow-2018.gif">
+<br><br>
+<img height="16" src="https://www.gifs.cc/arrows/arrow-right-chrome.gif">
 I stole this profile format 🥷🏼
-<br>
-<!-- <img height="16" style="transform:scaleX(-1)" src="https://www.gifs.cc/arrows/flashing-arrow-2018.gif">
-Humorous and pleasant to work with 🍭
-<br> -->
-<br>
+<br><br>
 
 ## Peep me 👀 on
 [<img alt="Hashnode" src="https://img.shields.io/badge/my%20website-ff69bb?style=for-the-badge&logo=node.js&logoColor=white" />](https://thedeviantrebel.com)
